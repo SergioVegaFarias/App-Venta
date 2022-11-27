@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330437362413",
+    "project_id": "ventasvarias-4d445",
+    "storage_bucket": "ventasvarias-4d445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330437362413:android:a3e003f929af7c397642e4",
+        "android_client_info": {
+          "package_name": "com.example.evfinal1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330437362413-93k3gocj007djc1ms6a5gsh2f0jt10ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm5dQk9beI89Ihhp2-mK_-hHSoCwaXagE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330437362413-93k3gocj007djc1ms6a5gsh2f0jt10ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
